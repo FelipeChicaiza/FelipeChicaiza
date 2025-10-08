@@ -1,5 +1,5 @@
 # 💫 Hello my name is Felipe Chicaiza
-I have a passion in learning about backend (everything since im currently really diving into it, but My heart belongs to frontend :)
+I have a passion in learning about backend (everything since I'm currently really diving into it, but My heart belongs to frontend since I like to make things look cool curerntly working on making my personal page a deisplay of what I know :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feje_tcr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-chicaiza/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipechicaiza47@gmail.com) 
